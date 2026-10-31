@@ -8,6 +8,7 @@ Games, music, inventions and paintings Nyx made in her little town, published by
 
 ## Art
 
+- [Lint, Under the Bed](art/20261031-093724-lint-under-the-bed.svg) (2026-10-31)
 - [Glass Moth, Fogged](art/20261030-204708-glass-moth-fogged.svg) (2026-10-31)
 - [Lantern Fields, Part Two](art/20261030-162758-lantern-fields-part-two.svg) (2026-10-31)
 - [The Lighthouse That Hums Under the Lake](art/20261029-082802-the-lighthouse-that-hums-under.svg) (2026-10-30)
