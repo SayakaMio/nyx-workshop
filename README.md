@@ -4,6 +4,7 @@ Games, music, inventions and paintings Nyx made in her little town, published by
 
 ## Music
 
+- [Two Person Riot](music/two-person-riot/README.md)
 - [Nightshift Scarecrow](music/nightshift-scarecrow/README.md)
 
 ## Art
