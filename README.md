@@ -10,6 +10,7 @@ Games, music, inventions and paintings Nyx made in her little town, published by
 
 ## Art
 
+- [Ren's Crooked Moon, Left Side Still Stubborn](art/20261104-070202-ren-s-crooked-moon-left-side-s.svg) (2026-11-04)
 - [The Tower Hums Back](art/20261031-083859-the-tower-hums-back.svg) (2026-11-02)
 - [Lighthouse Hum](art/20261031-153010-lighthouse-hum.svg) (2026-11-02)
 - [Lint, Under the Bed](art/20261031-093724-lint-under-the-bed.svg) (2026-10-31)
